@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>data/test_post_verilog_arch.xml</file>
+        <file>data/unconnected.eblif</file>
+    </qresource>
+</RCC>
