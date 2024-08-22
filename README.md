@@ -38,5 +38,7 @@ cmake --build .
 ```sh
 ./IPAClient
 ```
+### Minimal viable configuration
+2. In App window, press [Configuration] button and setup valid vpr binary file path as shown in the picture
+![ipaclient_vpr_filepath_setup](doc/ipaclient_vpr_filepath_setup.png)
 
-2. In App window, press [Configuration] and setup valid vpr binary file path
