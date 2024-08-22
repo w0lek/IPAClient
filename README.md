@@ -36,5 +36,5 @@ cmake --build .
 After building, you can run the application with:
 
 ```sh
-./MyProjectName
+./IPAClient
 ```
