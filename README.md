@@ -14,15 +14,18 @@ Simple IPA Client Viewer to test [vpr](https://github.com/verilog-to-routing/vtr
 git clone git@github.com:w0lek/IPAClient.git
 cd IPAClient
 ```
+
 2. Create a build directory and navigate into it:
 ```sh
 mkdir build
 cd build
-    ```
+```
+
 3. Run CMake to configure the project:
 ```sh
 cmake ..
 ```
+
 4. Build the project:
 ```sh
 cmake --build .
