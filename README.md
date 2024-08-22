@@ -33,8 +33,10 @@ cmake --build .
 
 ### Running the Application
 
-After building, you can run the application with:
+1. After building, you can run the application with:
 
 ```sh
 ./IPAClient
 ```
+
+2. In App window, press [Configuration] and setup valid vpr binary file path
