@@ -38,12 +38,14 @@ cmake --build .
 
 ### Running the Application
 
-1. After building, you can run the application with:
+After building, you can run the application with:
 
 ```sh
 ./IPAClient
 ```
 ### Minimal viable configuration
-2. In App window, press [Configuration] button and setup valid vpr binary file path as shown in the picture
+In App window, press [Configuration] button and setup valid vpr binary file path as shown in the picture
 ![ipaclient_vpr_filepath_setup](doc/ipaclient_vpr_filepath_setup.png)
 
+**Note:**
+The IPAClient will runs server internally, so user don't have to deal with manual vpr instance running in server mode.
