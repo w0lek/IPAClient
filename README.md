@@ -8,6 +8,10 @@ Simple IPA Client Viewer to test [vpr](https://github.com/verilog-to-routing/vtr
 - C++17 compatible compiler
 - Qt5 or Qt6
 
+### Tested
+ubuntu 20.04
+Qt5 (!!! not tested with Qt6)
+
 ### Building the Project
 1. Clone the repository:
 ```sh
